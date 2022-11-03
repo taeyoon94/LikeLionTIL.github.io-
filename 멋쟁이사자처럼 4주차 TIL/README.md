@@ -3,10 +3,16 @@
 오리지널 프로젝트: https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic
 ## 사용모델링
 1)Logistic Regression
+
 2)Support Vector Machines(Linear and radial)
+
 3)Random Forest
+
 4)K-Nearest Neighbours
+
 5)Naive Bayes
+
 6)Decision Tree
+
 7)Logistic Regression
 
